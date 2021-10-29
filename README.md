@@ -4,6 +4,8 @@
  this site is build using NextJS
  ```
 
+This site is hosted on netlify, you can click here [fileio-upload.netlify.app](https://fileio-upload.netlify.app/) to visit the site.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
